@@ -182,7 +182,7 @@ nano index.html
 Paste:
 
 ```html
-<h1>Hello Kubernetes 🚀</h1>
+<h1>Hello Kubernetes </h1>
 ```
 
 Save and Exit.
