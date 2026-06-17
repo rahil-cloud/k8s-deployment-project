@@ -362,7 +362,7 @@ http://13.51.xx.xx:30206
 Expected Output:
 
 ```html
-Hello Kubernetes 🚀
+Hello Kubernetes 
 ```
 
 ---
@@ -506,5 +506,5 @@ k8s-deployment-project/
 Output:
 
 ```html
-Hello Kubernetes 🚀
+Hello Kubernetes 
 ```
